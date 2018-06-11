@@ -1,1 +1,3 @@
-# TOC   This is the Town of Charlotte project.
+# TOC
+
+Repository for the *Town of Charlotte* project.
